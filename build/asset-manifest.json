@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.901aa6fc.chunk.css",
+    "main.js": "/static/js/main.f6828fb0.chunk.js",
+    "main.js.map": "/static/js/main.f6828fb0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f4df7333.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f4df7333.js.map",
+    "static/js/2.45ba7c82.chunk.js": "/static/js/2.45ba7c82.chunk.js",
+    "static/js/2.45ba7c82.chunk.js.map": "/static/js/2.45ba7c82.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.901aa6fc.chunk.css.map": "/static/css/main.901aa6fc.chunk.css.map",
+    "static/js/2.45ba7c82.chunk.js.LICENSE.txt": "/static/js/2.45ba7c82.chunk.js.LICENSE.txt",
+    "static/media/EmersonCV.f06def12.pdf": "/static/media/EmersonCV.f06def12.pdf",
+    "static/media/HomeMy.css": "/static/media/emreson.d7a2fa0a.jpeg",
+    "static/media/logoLobo.6dd49655.svg": "/static/media/logoLobo.6dd49655.svg",
+    "static/media/moto.85500631.png": "/static/media/moto.85500631.png",
+    "static/media/Landing.module.css": "/static/media/uno.8438bafd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4df7333.js",
+    "static/js/2.45ba7c82.chunk.js",
+    "static/css/main.901aa6fc.chunk.css",
+    "static/js/main.f6828fb0.chunk.js"
+  ]
+}
