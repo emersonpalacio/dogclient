@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import "./Header.css";
+import { Link } from "react-router-dom";
 
 const Header = () => {
   const [Toggle, setToggle] = useState(false);
@@ -43,7 +44,7 @@ const Header = () => {
               </a>
             </li>
             <li className="navItem">
-              <a href="/home" className="navLink">
+              <Link to="/home" className="navLink">
                 <svg
                   version="1.0"
                   xmlns="http://www.w3.org/2000/svg"
@@ -108,7 +109,7 @@ l12 72 -30 0 c-17 -1 -44 -7 -61 -14z"
                   </g>
                 </svg>
                 DOGS
-              </a>
+              </Link>
             </li>
             <li className="navItem">
               <a href="/" className="navLink">
